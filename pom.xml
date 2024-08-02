@@ -21,6 +21,7 @@
 		<carina-appcenter.version>1.2.7</carina-appcenter.version>
 		<maven.compiler.source>17</maven.compiler.source>
 		<maven.compiler.target>17</maven.compiler.target>
+		<maven.compiler.release>17</maven.compiler.release>
 		<java.version>17</java.version>
 		<zebrunner-agent.version>1.9.8</zebrunner-agent.version>
 		<suite>helloWorld</suite>
